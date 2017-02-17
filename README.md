@@ -1,3 +1,3 @@
 # London Subway System
 
-This term project for a course in school. It uses real time data from the London Subway api to track the time of trains arriving and leaving the platform.
+This term project for a course in school. An android application that plots the London Subway station on map and touch UI provides real time tracking data of trains arriving and leaving the each platform for stations.
